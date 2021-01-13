@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sensitivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!--admob unit id -->
+    <string name="banner_ad_unit_id">ca-app-pub-4073897813234505/2967730477</string>
+
+</resources>
